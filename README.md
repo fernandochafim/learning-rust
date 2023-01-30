@@ -34,3 +34,16 @@ Create new lib
 cargo new hello_cargo --lib
 ```
  
+
+```
+cargo check
+```
+
+```
+cargo run
+```
+
+```
+cargo build --release
+```
+
